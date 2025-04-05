@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Zip
+*.zip
+
+# Node.js (プロジェクトで使っていれば)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+.env*
